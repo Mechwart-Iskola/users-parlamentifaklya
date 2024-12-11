@@ -1,5 +1,4 @@
-
-import UserCard from "./usercard/Usercard";
+import UserCard from "./components/UserCard";
 import "./app.css";
 
 function App() {
